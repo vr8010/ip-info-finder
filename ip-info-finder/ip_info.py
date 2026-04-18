@@ -79,6 +79,10 @@ def main():
     if error:
         print(f"\n❌ Error: {error}")
         sys.exit(1)
+
+
+
+
     
     # Display results
     display_ip_info(data)
