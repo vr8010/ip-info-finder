@@ -88,15 +88,15 @@ The tool handles:
 - Keyboard interrupts
 
 ## 📡 API Information
-
+```
 This tool uses the free [ip-api.com](http://ip-api.com) service. Please note:
 - Free for non-commercial use
 - Rate limit: 45 requests per minute
 - No API key required
-
+```
 ## 👤 Author
 
-Your Name
+Vishal Rathod
 
 ## 📝 License
 
